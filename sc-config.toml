@@ -1,0 +1,6 @@
+[settings]
+main = "pridevault"
+
+[contracts.pridevault]
+name = "pridevault"
+add-unlabelled = true

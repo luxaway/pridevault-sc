@@ -1,0 +1,8 @@
+/target
+/output
+**/*.rs.bk
+Cargo.lock
+.idea
+.vscode
+*.wasm
+*.wat
